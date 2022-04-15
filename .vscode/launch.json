@@ -12,7 +12,8 @@
             "args": [
                 "-temp", "D:\\1C\\21vek\\выгрузка обработок\\temp",
                 "-repo", "D:\\1C\\21vek\\выгрузка обработок\\репозиторий",
-                "-filesForProcess", "D:\\1C\\21vek\\выгрузка обработок\\файлы"
+                "-filesForProcess", "D:\\1C\\21vek\\выгрузка обработок\\файлы",
+                "-cleanProcessed", "false"
                 ],
             "cwd": "${workspaceRoot}",
             "env": {},
