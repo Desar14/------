@@ -13,7 +13,7 @@
                 "-temp", "D:\\1C\\21vek\\выгрузка обработок\\temp",
                 "-repo", "D:\\1C\\21vek\\выгрузка обработок\\репозиторий",
                 "-filesForProcess", "D:\\1C\\21vek\\выгрузка обработок\\файлы",
-                "-cleanProcessed", "false"
+                "-edtModule", "edt@2021.3.4:x86_64"
                 ],
             "cwd": "${workspaceRoot}",
             "env": {},
